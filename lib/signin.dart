@@ -168,7 +168,7 @@ class _SiginPageState extends State<SiginPage> {
                   ),
                   const SizedBox(height: 10),
                   const Text(
-                    "Do not have an Account?",
+                    "Do not have an account ?",
                     style: TextStyle(fontSize: 15, color: Colors.grey),
                   ),
                   const SizedBox(height: 10),
